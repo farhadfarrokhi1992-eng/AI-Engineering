@@ -1,0 +1,4 @@
+My AI Engineering Profile
+
+I am learning Python, Git, and AI Engineering.
+My goal is to build AI Agents.
